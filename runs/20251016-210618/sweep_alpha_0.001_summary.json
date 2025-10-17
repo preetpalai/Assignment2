@@ -1,0 +1,11 @@
+{
+  "episodes": 5000,
+  "alpha": 0.001,
+  "epsilon": 0.1,
+  "gamma": 0.9,
+  "mean_return": -253.75999450683594,
+  "mean_steps": 185.84,
+  "train_time_sec": 124.04832291603088,
+  "csv_path": "runs\\20251016-210618\\sweep_alpha_0.001_metrics.csv",
+  "plot_path": "runs\\20251016-210618\\sweep_alpha_0.001_plots.png"
+}

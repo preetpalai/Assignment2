@@ -1,0 +1,81 @@
+{
+  "best": {
+    "episodes": 5000,
+    "alpha": 0.1,
+    "epsilon": 0.1,
+    "gamma": 0.9,
+    "mean_return": 1.9800000190734863,
+    "mean_steps": 15.06,
+    "train_time_sec": 17.96415615081787,
+    "csv_path": "runs\\20251016-210618\\base_a0.1_e0.1_g0.9_metrics.csv",
+    "plot_path": "runs\\20251016-210618\\base_a0.1_e0.1_g0.9_plots.png"
+  },
+  "runs": [
+    {
+      "episodes": 5000,
+      "alpha": 0.1,
+      "epsilon": 0.1,
+      "gamma": 0.9,
+      "mean_return": 1.9800000190734863,
+      "mean_steps": 15.06,
+      "train_time_sec": 17.96415615081787,
+      "csv_path": "runs\\20251016-210618\\base_a0.1_e0.1_g0.9_metrics.csv",
+      "plot_path": "runs\\20251016-210618\\base_a0.1_e0.1_g0.9_plots.png"
+    },
+    {
+      "episodes": 5000,
+      "alpha": 0.01,
+      "epsilon": 0.1,
+      "gamma": 0.9,
+      "mean_return": -72.22000122070312,
+      "mean_steps": 70.81,
+      "train_time_sec": 71.29939150810242,
+      "csv_path": "runs\\20251016-210618\\sweep_alpha_0.01_metrics.csv",
+      "plot_path": "runs\\20251016-210618\\sweep_alpha_0.01_plots.png"
+    },
+    {
+      "episodes": 5000,
+      "alpha": 0.001,
+      "epsilon": 0.1,
+      "gamma": 0.9,
+      "mean_return": -253.75999450683594,
+      "mean_steps": 185.84,
+      "train_time_sec": 124.04832291603088,
+      "csv_path": "runs\\20251016-210618\\sweep_alpha_0.001_metrics.csv",
+      "plot_path": "runs\\20251016-210618\\sweep_alpha_0.001_plots.png"
+    },
+    {
+      "episodes": 5000,
+      "alpha": 0.2,
+      "epsilon": 0.1,
+      "gamma": 0.9,
+      "mean_return": 1.9700000286102295,
+      "mean_steps": 14.98,
+      "train_time_sec": 5.37880802154541,
+      "csv_path": "runs\\20251016-210618\\sweep_alpha_0.2_metrics.csv",
+      "plot_path": "runs\\20251016-210618\\sweep_alpha_0.2_plots.png"
+    },
+    {
+      "episodes": 5000,
+      "alpha": 0.1,
+      "epsilon": 0.2,
+      "gamma": 0.9,
+      "mean_return": -4.769999980926514,
+      "mean_steps": 17.31,
+      "train_time_sec": 7.085123538970947,
+      "csv_path": "runs\\20251016-210618\\sweep_epsilon_0.2_metrics.csv",
+      "plot_path": "runs\\20251016-210618\\sweep_epsilon_0.2_plots.png"
+    },
+    {
+      "episodes": 5000,
+      "alpha": 0.1,
+      "epsilon": 0.3,
+      "gamma": 0.9,
+      "mean_return": -14.90999984741211,
+      "mean_steps": 19.98,
+      "train_time_sec": 7.878866910934448,
+      "csv_path": "runs\\20251016-210618\\sweep_epsilon_0.3_metrics.csv",
+      "plot_path": "runs\\20251016-210618\\sweep_epsilon_0.3_plots.png"
+    }
+  ]
+}
